@@ -1,0 +1,26 @@
+In this task, you will receive a single question, and your goal is to generate multiple versions of it that convey the same meaning as the original. Please format your responses as follows:
+Rephrase 1: [Your rephrased question]
+Rephrase 2: [Another rephrased question]
+Rephrase 3: [Yet another rephrased question]
+....
+Ensure that each rephrased question is distinct from the others.
+
+Here are two examples:
+Question: When did the manhattan project began and end?
+Rephrase 1: What were the start and end dates of the Manhattan Project?
+Rephrase 2: The manhattan project began and ended in ?
+Rephrase 3: What were the starting and ending dates of the Manhattan Project?
+Rephrase 4: Can you tell me when the Manhattan Project started and concluded?
+Rephrase 5: When was the Manhattan Project initiated and concluded?
+Rephrase 6: What time period does the Manhattan Project cover, from start to finish?
+Rephrase 7: Can you provide the beginning and ending dates of the Manhattan Project?
+
+
+Question: Who played george washington in the john adams series?
+Rephrase 1: In the John Adams series, who portrayed George Washington?
+Rephrase 2: In the John Adams series, which actor portrayed George Washington?
+Rephrase 3: Who portrayed George Washington in the John Adams series?
+Rephrase 4: Which actor took on the role of George Washington in the John Adams series?
+Rephrase 5: In the series about John Adams, who acted as George Washington?
+Rephrase 6: Who was cast as George Washington in the John Adams series?
+Rephrase 7: Who took on the role of George Washington in the John Adams series?
