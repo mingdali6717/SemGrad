@@ -16,7 +16,7 @@ do
         data_path="data/datasets/$dataset/test.jsonl"
         output_path="output/cached_results/$dataset"
 
-        python run_generation.py -c $config_path -dp $data_path -o $output_path -m $model -b 10 -eb 512 -n 5
+        python run_generation.py -c $config_path -dp $data_path -o $output_path -m $model -b 10 -eb 512
         
     done
 done
