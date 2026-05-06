@@ -10,8 +10,8 @@ This is the official repository for our ICML 2026 paper [Gradients with Respect 
 ## Installation
 1. Create and activate a Python environment
     ```bash
-    conda create -n 
-    conda activate esi
+    conda create -n semgrad
+    conda activate semgrad
     ```
 
 2. Install via requirements.txt
@@ -66,11 +66,6 @@ Evaluate the performance of SemGrad and HybridGrad as follows:
 bash run_baselines.bash
 ```
 Before running the bash script, change the -c ${path_save_the_generation_results} to the path to "results.json", which saves all results generated in the above generation and evaluation step.
-
-
-## Other
-- When generating parapharses for ESI(Para), please add your Deepseek API keys to **uncertainty/run_prompt_paraphrase.py** line 16 'DEEPSEEK_API_KEY'.
-
 
 
 
