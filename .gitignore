@@ -8,7 +8,6 @@ log/
 openai_log/
 pr_curve/
 result/
-*.sh
 *.print
 *.terminal
 *.ipynb
