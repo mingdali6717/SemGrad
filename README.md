@@ -61,7 +61,7 @@ Before running the bash script, change the -c ${path_save_the_generation_results
 
 
 ### RUN BASELINES
-Evaluate the performance of SemGrad and HybridGrad as follows:
+Evaluate the performance of baselines as follows:
 ```
 bash run_baselines.bash
 ```
